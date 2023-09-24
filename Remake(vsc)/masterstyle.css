@@ -383,10 +383,11 @@ font-family: arial;
     display: flex;
     text-align: left;
     margin: auto;
+     justify-content: space-between;
+    padding: 20px 0 32px 0;
+   border-top: 1px solid rgb(81, 81, 84); 
 }
 .claim{
-    color: white;
-}
-.last{
-    float: right;
+    color: rgb(81, 81, 84);
+    
 }
